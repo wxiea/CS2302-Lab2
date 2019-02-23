@@ -56,9 +56,9 @@ a = [1,5,4,7,8,3,6,11,21]
 b = [9,5,3,0,4,6,5,7]
 c = [10,60,54,87,52,1,2,36,54,21]
 
-#print(BubbleSort(a))
+print(BubbleSort(c))
 #Toprint = MergeSort(c)
 #print(MergeSort(c))
-print(QuickSort(b,0,7))
-
+#print(QuickSort(b,0,7))
+print(Median(c))
 #print(FindMiddle(Toprint))
